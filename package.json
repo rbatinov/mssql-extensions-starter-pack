@@ -2,7 +2,7 @@
     "name": "mssql-extensions-starter-pack",
     "displayName": "MSSQL Extension Starter Pack",
     "description": "Powerful tools for starting your MS SQL Server development.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "MEngRBatinov",
     "author": {
         "name": "M. Eng. R. Batinov"
@@ -51,7 +51,7 @@
         "url": "https://github.com/rbatinov/mssql-extensions-starter-pack"
     },
     "homepage": "https://github.com/rbatinov/mssql-extensions-starter-pack/blob/3a4a91cb53aadcb5ae97ed8f82a7864ef96ea678/README.md",
-    "extensionPack": [ 
+    "extensionPack": [
         "ms-mssql.mssql",
         "MEngRBatinov.mssql-scripts",
         "MEngRBatinov.mssql-snippets"
