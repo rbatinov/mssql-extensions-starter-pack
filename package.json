@@ -1,0 +1,58 @@
+{
+    "name": "mssql-extensions-starter-pack",
+    "displayName": "MSSQL Extension Starter Pack",
+    "description": "Powerful tools for starting your MS SQL Server development.",
+    "version": "0.0.1",
+    "publisher": "MEngRBatinov",
+    "author": {
+        "name": "M. Eng. R. Batinov"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Other",
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#cbeaff",
+        "theme": "light"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "snippets",
+        "mssql",
+        "sql snippets",
+        "sql",
+        "MS SQL Server",
+        "Microsoft",
+        "Microsoft SQL Server",
+        "SQL Snippets",
+        "Azure",
+        "Azure Warehouse",
+        "MSSQL",
+        "Azure SQL Database",
+        "Azure SQL",
+        "database",
+        "db",
+        "db2",
+        "dba",
+        "SQLTools",
+        "Scripts",
+        "SQL Scripts",
+        "Queries",
+        "SQL Server",
+        "SQL",
+        "Database"
+    ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rbatinov"
+    },
+    "extensionPack": [ 
+        "ms-mssql.mssql",
+        "MEngRBatinov.mssql-scripts",
+        "MEngRBatinov.mssql-snippets"
+    ]
+}
