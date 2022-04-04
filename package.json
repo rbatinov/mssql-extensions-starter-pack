@@ -48,8 +48,9 @@
     "license": "SEE LICENSE IN LICENSE.txt",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rbatinov"
+        "url": "https://github.com/rbatinov/mssql-extensions-starter-pack"
     },
+    "homepage": "https://github.com/rbatinov/mssql-extensions-starter-pack/blob/3a4a91cb53aadcb5ae97ed8f82a7864ef96ea678/README.md",
     "extensionPack": [ 
         "ms-mssql.mssql",
         "MEngRBatinov.mssql-scripts",
