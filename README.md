@@ -211,14 +211,14 @@ The Extension Pack includes all these extensions:
 
 1. Install the extension: 
     - from [Marketplace](https://marketplace.visualstudio.com/items?itemName=MEngRBatinov.mssql-extensions-starter-pack&ssr=false#overview).  
-    ![Extension Search](/extension-marketplace.png) 
+    ![Extension Search](Images/extension-marketplace.png) 
     - from VS Code
         1. Open VS Code.
         2. Select `Extensions` from left panel or press `Ctrl + Shift + X`.
         3. Type in `mssql-extensions-starter-pack`. The extension with name `MSSQL Extension Starter Pack` will show.   
-        ![Extension Search](/extension-search.png)  
+        ![Extension Search](Images/extension-search.png)  
         4. You can select the extension and read the overview features if you want.  
-        ![Extension Search](/extension-overview.png) 
+        ![Extension Search](Images/extension-overview.png) 
         5. Pres `Install` button and you are ready.
         6. By installing `MSSQL Extension Starter Pack` ALL these extensions will be installed: 
             - [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
@@ -243,6 +243,10 @@ The Extension Pack includes all these extensions:
 Currently there are no known issues.
 
 ## Release Notes
+
+### 0.2.0
+
+Update Documentation 
 
 ### 0.1.0
 
