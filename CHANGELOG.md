@@ -4,6 +4,6 @@ All notable changes to the "mssql-extensions-starter-pack" extension pack will b
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.1] - 2022-04-04
+## [0.1.0] - 2022-04-04
 
 - Initial release
